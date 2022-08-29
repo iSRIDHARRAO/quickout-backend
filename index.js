@@ -13,7 +13,7 @@ const app = express();
 const connection = mysql.createConnection({
     host: 'database-1.chwhat0w1vcg.us-east-1.rds.amazonaws.com',
     user: 'admin',
-    password: 'confero123',
+    password: '',
     database: 'quickout'
 })
 
